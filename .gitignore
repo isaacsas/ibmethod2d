@@ -1,0 +1,29 @@
+# Ignore the build and lib dirs
+build
+lib/*
+sims
+sims/*
+
+# Ignore any executables
+bin/*
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore object files
+*.o
+*.a
+*.a.*
+*.so
+*.out
+
+# ignore python lprof files
+*.lprof
+
+# Ignore emacs ~ files
+*.*~
+*.dtps
+*.plist
+*.data
+*.msgq
+*.mexmaci64
