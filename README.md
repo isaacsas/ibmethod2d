@@ -18,7 +18,7 @@ or bug fixes back to the original author.
 purposes, provided any publications resulting from the use of this
 code reference the original code/author.
 
-**Author:**  Samuel Isaacson (isaacson@math.bu.edu)
+**Author:**  Samuel Isaacson (http://math.bu.edu/people/isaacson/)
 
 **Disclaimer:**
 This code is provided as is. The author takes no responsibility for
