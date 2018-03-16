@@ -14,10 +14,9 @@ immersed structure stays away from the domain boundaries.
 Please notify the author of any bugs, and contribute any improvements
 or bug fixes back to the original author.
 
-**License:** 
-This code is free to use for any purposes, provided any publications
-resulting from the use of this code reference the original
-code/author.
+**License:** MIT Expat License. This code is free to use for any
+purposes, provided any publications resulting from the use of this
+code reference the original code/author.
 
 **Author:**  Samuel Isaacson (isaacson@math.bu.edu)
 
